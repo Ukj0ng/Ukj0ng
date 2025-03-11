@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ukj0ng&layout=compact)
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://ukj0ng.tistory.com/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ukj0ng&layout=compact&theme=onedark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ukj0ng&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aruru18)](https://solved.ac/aruru18/)
