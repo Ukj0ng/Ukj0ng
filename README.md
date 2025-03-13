@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fukj0ng%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://ukj0ng.tistory.com/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ukj0ng&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aruru18)](https://solved.ac/aruru18/)
+<img src="https://github-readme-stats.vercel.app/api?username=Ukj0ng&show_icons=true&theme=radical" height="170">
 [![코드트리|실력진단-aruru18](https://banner.codetree.ai/v1/banner/aruru18)](https://www.codetree.ai/profiles/aruru18)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Ukj0ng&utm_content=line">
