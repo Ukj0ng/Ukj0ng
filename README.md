@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://ukj0ng.tistory.com/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aruru18)](https://solved.ac/aruru18/)
 <img src="https://github-readme-stats.vercel.app/api?username=Ukj0ng&show_icons=true&theme=radical" height="170">
-[![코드트리|실력진단-aruru18](https://banner.codetree.ai/v1/banner/aruru18)](https://www.codetree.ai/profiles/aruru18)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ukj0ng&hide=C&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Ukj0ng&utm_content=line">
